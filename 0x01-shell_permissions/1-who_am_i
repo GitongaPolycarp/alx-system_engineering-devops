@@ -1,2 +1,2 @@
 #!/bin/bash
-whoami : Print betty
+echo "betty: $betty"
