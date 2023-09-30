@@ -1,2 +1,2 @@
 #!/bin/bash
-chown vincent:group -R staff
+sudo chown -R vincent:staff
