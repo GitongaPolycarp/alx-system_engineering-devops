@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -u guillame betty hello
+chown betty hello --owner=guillaume
