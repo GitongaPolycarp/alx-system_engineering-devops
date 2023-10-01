@@ -1,2 +1,2 @@
 #!/bin/bash
-chown betty hello -c guillaume
+chown -u guillame betty /path/to/hello
