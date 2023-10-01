@@ -1,2 +1,2 @@
 #!/bin/bash
-chown betty hello --owner=guillaume
+chown betty hello if owner=guillaume
