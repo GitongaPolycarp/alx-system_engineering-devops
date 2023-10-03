@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "text_to_encode/encoded_text" | tr 'A-Za-z' 'N-ZA-Mn-za-m' 
