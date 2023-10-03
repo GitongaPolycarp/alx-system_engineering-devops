@@ -1,2 +1,2 @@
 #!/bin/bash
-$ ./print_every_other_line.sh your_input_file.txt
+$ ./print_every_other_line.sh file.txt
