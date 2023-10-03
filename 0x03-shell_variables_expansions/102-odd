@@ -1,2 +1,2 @@
 #!/bin/bash
-awk 'NR / 2==1' file.txt
+$ ./print_every_other_line.sh your_input_file.txt
